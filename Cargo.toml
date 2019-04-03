@@ -1,0 +1,8 @@
+[package]
+name = "senapskal"
+version = "0.1.0"
+authors = ["Kristoffer Grönlund <krig@koru.se>"]
+
+[dependencies]
+termion = "*"
+
